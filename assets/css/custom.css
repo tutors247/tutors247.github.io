@@ -1,4 +1,16 @@
 /* CUSTOM CSS */
-<body>{
-	background-color: red;
+
+@import url('https://fonts.googleapis.com/css?family=Alice|Courgette|Dekko|Delius|Delius+Unicase|Patrick+Hand|Rancho');
+
+h1,
+#intro > .style2 {
+  font-family: 'Delius Unicase', cursive;
+}
+h2,
+#logo p
+ {
+  font-family: 'Delius', cursive;
+}
+ h3 {
+  font-family: 'Dekko', cursive;
 }
